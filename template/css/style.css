@@ -1,0 +1,73 @@
+.wrap {
+			margin: 50px auto;
+			width:70%;
+			background-color: #d8d8d8;
+			border-radius: 10px;
+			width: 600px;
+			height: 400px;
+			padding: 50px;
+			}
+			
+			.wrap100 {
+			margin: 50px auto;
+			padding: 50px;
+			}
+			
+			ul {
+				display: block;
+				padding: 20px;
+				border: 3px solid #21687c;
+				width:2500%;
+				background-color: #f6f6f6;
+				border-radius: 20px;
+			}
+			
+			#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+  #sortable li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; height: 1.5em; }
+  html>body #sortable li { height: 1.5em; line-height: 1.2em; }
+  
+  .ui-state-highlight { height: 1.5em; line-height: 1.2em; display: block; width: 300px}
+			
+			li {
+				list-style: none;
+				float: left;
+				background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #fff, #ededed) repeat scroll 0 0 !important;
+				border: 1px solid #cccccc !important;
+				margin:10px;
+				padding:20px;
+				border-radius: 10px;
+				
+				
+			}
+			
+			.country {
+				text-align: center;
+				font-size: 0.9em;
+				margin:0px 0px 3px 0px;
+			}
+			
+			.products,.grade {
+				text-align: center;
+				font-size: 0.8em;
+				margin:0px 0px 3px 0px;
+				color: #489320
+			}
+			.size {
+				font-size: 1em;
+			}
+			
+			.date {
+				color: #c2381b;
+				font-size: 0.8em;
+			}
+			
+			body {
+				/*background-color: #329ebe;*/
+				background:#474747 url("images/bg3.jpg") repeat scroll 0 0;
+			}
+			
+			h3 {
+				margin:0px 0px 5px 0px;
+				text-align: center;
+				font-size: 2em;
+			}
